@@ -439,6 +439,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"스레드를 늘리는 것과, 스레드가 I/O를 기다리는 시간을 없애는 것은 다르다"*
+**"스레드를 늘리는 것과, 스레드가 I/O를 기다리는 시간을 없애는 것은 다르다"**
 
 </div>
